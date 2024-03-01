@@ -1,0 +1,11 @@
+html, body{
+    cursor: url(https://cdn.glitch.global/901fe2a6-c697-4c1d-ba02-ff535a3c59ba/%E6%9C%AA%E5%91%BD%E5%90%8D%E4%BD%9C%E5%93%81%2022.png?v=1709260780983), auto;
+}
+
+#home-image {
+    position: absolute;
+        top: 5%;
+        right: 2%;
+        width: 300px; 
+        height: 150px;
+}
